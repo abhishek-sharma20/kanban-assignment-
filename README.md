@@ -6,7 +6,7 @@ Welcome to the Kanban Board Application GitHub repository. This application is b
 
 ### Grouping Options
 
-The Kanban board application offers three distinct ways to group the data:
+The Kanban board application offers three distinct ways to group the data :
 
 1. **By Status**: Tickets are grouped based on their current status.
 2. **By User**: Tickets are arranged according to the assigned user.

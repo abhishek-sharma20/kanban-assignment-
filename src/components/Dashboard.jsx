@@ -42,7 +42,7 @@ function Dashboard({ users, tickets, selectedGrouping, selectedOrdering }) {
           users={users}
           selectedGrouping={selectedGrouping}
         />
-      ))}
+      )) }
     </div>
   );
 }
